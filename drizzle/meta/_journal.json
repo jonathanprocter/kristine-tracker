@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1765786065059,
+      "tag": "0000_hard_human_fly",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1765786299544,
+      "tag": "0001_amusing_alex_wilder",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1765794427782,
+      "tag": "0002_opposite_whizzer",
+      "breakpoints": true
+    }
+  ]
+}
